@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tallahasseehvacco.com/sitemap.xml
